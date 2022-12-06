@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(131,11): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(240,17): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(247,17): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(253,17): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(274,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(280,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(301,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(204,9): warning C4101: 'jumlahJadiKursi': unreferenced local variable
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(206,9): warning C4101: 'jumlahJadiLemari': unreferenced local variable
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(205,9): warning C4101: 'jumlahJadiMeja': unreferenced local variable
+C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\TUGAS-BESAR2\Source.cpp(479,16): warning C4129: '[': unrecognized character escape sequence
+  TUGAS-BESAR2.vcxproj -> C:\Users\Administrator\Downloads\TUGAS-BESAR2\TUGAS-BESAR2\x64\Debug\TUGAS-BESAR2.exe
